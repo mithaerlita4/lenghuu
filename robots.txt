@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Host: https://wedding.millo.me/
+Sitemap: https://wedding.millo.me/sitemap.xml
